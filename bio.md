@@ -4,4 +4,4 @@
 ##Email: tjpassaro@gmail.com
 ##github account: tjpassaro
 ##slack handle: tjpassaro
-photo of Thomas: ![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+photo of Thomas: ![Image of Thomas] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/tj.jpg)
