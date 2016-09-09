@@ -10,3 +10,6 @@
   An additional suggestion would be to try rephrasing your question in your web search a few times. Sometimes people have the same issue and just phrase it differently. I have found answers to many of my questions simply be rephrasing it. Another step that may help is giving a little bit of background information into why you need to do what you are doing to both help define the scope of the problem and also allow for work-arounds you may not have known are possible.
   
 ##e.2 ![Image of Regex Completion](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1_e.2.png)
+
+
+##e.2 ![Image of Regex Completion](https://github.com/tjpassaro/Open-Source-Labs/blob/master/blocky.png)
