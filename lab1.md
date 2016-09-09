@@ -22,3 +22,6 @@
 ##e.3.p4 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/p4.png)
 
 ##f.1 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/blocky.png)
+
+###g.2 Project Ideas
+  I'm not sure what exactly what I want to do yet but I am interested in writing backend functionality and algorithms. I am pretty open to anything so I need to go to RCOS and see if they are in need of anything in that field. If not, I will look for something commonly used, but lacking a library for, and make a module for it. I have not put too much thought into what yet, but I think RCOS meetings will help me to figure out where to start.
