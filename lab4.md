@@ -10,9 +10,9 @@ Good documentation is important in all code but most important in open source pr
 ### Diff file  
 Index: /Users/thomaspassaro/Documents/chapter.xml
 ===================================================================
-`-``-``-` /Users/thomaspassaro/Documents/chapter.xml	(revision 49438)
-`+``+``+` /Users/thomaspassaro/Documents/chapter.xml	(working copy)
-@@ `-`86,7 `+`86,7 @@
+`-``-``-` /Users/thomaspassaro/Documents/chapter.xml	(revision 49438)  
+`+``+``+` /Users/thomaspassaro/Documents/chapter.xml	(working copy)  
+@@ `-`86,7 `+`86,7 @@  
      <para>Today, most of the functionality in the &os; kernel is  
        contained in modules which can be dynamically loaded and  
        unloaded from the kernel as necessary.  This allows the running  
