@@ -13,13 +13,13 @@ Index: /Users/thomaspassaro/Documents/chapter.xml
 --- /Users/thomaspassaro/Documents/chapter.xml	(revision 49438)
 +++ /Users/thomaspassaro/Documents/chapter.xml	(working copy)
 @@ -86,7 +86,7 @@
-     <para>Today, most of the functionality in the &os; kernel is
-       contained in modules which can be dynamically loaded and
-       unloaded from the kernel as necessary.  This allows the running
--      kernel to adapt immediately to new hardware or for new
-+      kernel to adapt immediately to new hardware and for new
-       functionality to be brought into the kernel.  This is known as
-       a modular kernel.</para>
+     <para>Today, most of the functionality in the &os; kernel is  
+       contained in modules which can be dynamically loaded and  
+       unloaded from the kernel as necessary.  This allows the running  
+-      kernel to adapt immediately to new hardware or for new  
++      kernel to adapt immediately to new hardware and for new  
+       functionality to be brought into the kernel.  This is known as  
+       a modular kernel.</para>  
  
 ### Link to commit request
 https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=213126
