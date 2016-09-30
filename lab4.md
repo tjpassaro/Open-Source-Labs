@@ -8,7 +8,7 @@ I fixed a minor grammatical error in the handbook section 8.2. The sentence hs s
 Good documentation is important in all code but most important in open source projects. In order to increase contribution to a project, possible contributers must be able to understand the code which is only possible with good documentation. In addition to losing support, bad documentation can lead to misunderstandings about the intention of the code, causing bad patches and bug prone updates. 
 
 ### Diff file  
-Index: /Users/thomaspassaro/Documents/chapter.xml
+###### Index: /Users/thomaspassaro/Documents/chapter.xml
 ===================================================================
 `-``-``-` /Users/thomaspassaro/Documents/chapter.xml	(revision 49438)  
 `+``+``+` /Users/thomaspassaro/Documents/chapter.xml	(working copy)  
