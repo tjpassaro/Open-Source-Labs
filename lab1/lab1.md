@@ -12,16 +12,16 @@
 ###c.3 Free Culture- Chapter 3
   I think it is completely outrageous he can sued for that. He had no control over what was being searched and the only reason the RIAA can get away with that is because it is such a large organization and he is a student. By this reasoning, Google should also be at fault however, they have the money and legal team to defend against it so the RIAA will not go after them. I am curious as to why RPI wouldn't defend him if it is on RPI's network, he was working for the benefit of RPI, and he is a student there. I think that if Jesse had RPI's legal team, the RIAA would have backed off because they know the case will not hold up in court. Regardless, there should always be contracts in place barring the programmer from reprecussions for non-technical aspects of his work if he is writing for a client. This has relevance in the open-source community but can be applied to almost any programming job.
   
-##d.3 ![Image of Command Line](https://github.com/tjpassaro/Open-Source-Labs/blob/master/man_tree.png)
+##d.3 ![Image of Command Line](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/man_tree.png)
   
-##e.2 ![Image of Regex Completion](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1_e.2.png)
+##e.2 ![Image of Regex Completion](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/lab1_e.2.png)
 
-##e.3.p1 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/p1.png)
-##e.3.p2 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/p2.png)
-##e.3.p3 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/p3.png)
-##e.3.p4 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/p4.png)
+##e.3.p1 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/p1.png)
+##e.3.p2 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/p2.png)
+##e.3.p3 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/p3.png)
+##e.3.p4 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/p4.png)
 
-##f.1 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/blocky.png)
+##f.1 ![Image of Blocky](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab1/blocky.png)
 
 ###g.2 Project Ideas
   I'm not sure what exactly what I want to do yet but I am interested in writing backend functionality and algorithms. I am pretty open to anything so I need to go to RCOS and see if they are in need of anything in that field. If not, I will look for something commonly used, but lacking a library for, and make a module for it. I have not put too much thought into what yet, but I think RCOS meetings will help me to figure out where to start.
