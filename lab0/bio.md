@@ -4,4 +4,4 @@
 ##Email: tjpassaro@gmail.com
 ##github account: tjpassaro
 ##slack handle: tjpassaro
-photo of Thomas: ![Image of Thomas] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/tj.jpg)
+photo of Thomas: ![Image of Thomas] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab0/tj.jpg)
