@@ -10,8 +10,8 @@ Linux uses the GPLv2 to promote free software. One of the biggest benefits of op
 An example project would be making a  
 
 
-
-I am making CAPP reports for dual majors. I will be using the MIT License. It is really open-ended and promotes the use of free software. Because it is RPI specific, I doubt it can be used for monetary gain which is why a GPL license is not necessary. The MIT license allows for a little more openness in case there was a reason someone wanted to use the program, but needed a different license. 
+##Project and License:
+I am making CAPP reports for dual majors and I will be using the MIT License. It combines the CAPP reports of dual majors and makes a single, composite report. It is really open-ended and promotes the use of free software. Because it is RPI specific, I doubt it can be used for monetary gain which is why a GPL license is not necessary. The MIT license allows for a little more openness in case there was a reason someone wanted to use the program, but needed a different license. 
 
 Website | License Present | License
 ----------|-----|----------
