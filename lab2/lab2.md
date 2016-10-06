@@ -16,3 +16,7 @@ I am making CAPP reports for dual majors. I will be using the MIT License. It is
 Website | License Present | License
 ----------|-----|----------
 http://pizzadashrpiopensource.github.io/pizzadash/ | Yes | MIT License
+https://habitica.com/static/front | Yes | GPL v3 License
+https://github.com/jzblee/tally |  Yes | MIT License
+https://github.com/andykais/telebum | Yes | MIT License
+https://github.com/aryzle/campus | Yes  | MIT License
