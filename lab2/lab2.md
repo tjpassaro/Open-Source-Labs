@@ -7,7 +7,7 @@ It seems like a lack of openness was one of many factors that contributed to the
 Linux uses the GPLv2 to promote free software. One of the biggest benefits of open source is the distributuion of modifications and the GPLv2 license prevents people from taking free software and using it for monetary gain. The GPLv2 prevents modification of Linux without the GPL license, therefore verifying it remains free software. 
 
 ##Example Project License:
-An example project would be making a  
+An example project would be making an app that tracks trending news stories and combines them into one feed by popularity and relevance. It could also bring up a Democtratic and Republican article for political issues. I would use a GPL License to ensure someone would not be able to repackage and sell the software. Other than that though, it would be free to use and modify by all. 
 
 
 ##Project and License:
