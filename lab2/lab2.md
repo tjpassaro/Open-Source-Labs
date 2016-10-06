@@ -13,6 +13,6 @@ An example project would be making a
 
 I am making CAPP reports for dual majors. I will be using the MIT License. It is really open-ended and promotes the use of free software. Because it is RPI specific, I doubt it can be used for monetary gain which is why a GPL license is not necessary. The MIT license allows for a little more openness in case there was a reason someone wanted to use the program, but needed a different license. 
 
-Website|License Present|License
-_______|_____|__________
-http://pizzadashrpiopensource.github.io/pizzadash/|Yes|MIT License
+Website | License Present | License
+----------|-----|----------
+http://pizzadashrpiopensource.github.io/pizzadash/ | Yes | MIT License
