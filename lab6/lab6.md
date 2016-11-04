@@ -35,3 +35,7 @@ Ruma: Jimmy Cuadra was definitely the leader. Other group members participated s
 
 Scaffold: Very incomplete project. Christina-Hammer was the leader.
 ![Image of Scaffold] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab6/scaffold.png)
+
+
+Part B:
+![Image of Results] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab6/markdown_test.png)
