@@ -37,5 +37,7 @@ Scaffold: Very incomplete project. Christina-Hammer was the leader.
 ![Image of Scaffold] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab6/scaffold.png)
 
 
-Part B:
+##Part B:
+Markdown.py: [Absolute markdown.py](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab6/markdown.py)
+Unit Tests: [Absolute test_markdown_unittest.py](https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab6/test_markdown_unittest.py)
 ![Image of Results] (https://github.com/tjpassaro/Open-Source-Labs/blob/master/lab6/markdown_test.png)
